@@ -1,0 +1,8 @@
+alt+回车：导包
+ctrl+y：删除光标所在行
+ctrl+d：复制当前行
+ctrl+alt+l：格式化代码
+ctrl+/：单行注释
+ctrl+shift+/：多行注释
+alt+ins：自动生成代码
+alt+shift+上下箭头：移动代码
