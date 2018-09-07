@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;cn.itcast_02.FileInputStringDemo.java&apos; to &apos;FileInputStreamDemo.java&apos;&#x0D;&#x0A;- Original project: &apos;day20_IO&apos;&#x0D;&#x0A;- Original element: &apos;cn.itcast_02.FileInputStringDemo.java&apos;&#x0D;&#x0A;- Renamed element: &apos;cn.itcast_02.FileInputStreamDemo.java&apos;" description="Rename compilation unit &apos;FileInputStringDemo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;cn.itcast_02{FileInputStringDemo.java" name="FileInputStreamDemo.java" references="false" stamp="1532186886199" version="1.0"/>
+</session>

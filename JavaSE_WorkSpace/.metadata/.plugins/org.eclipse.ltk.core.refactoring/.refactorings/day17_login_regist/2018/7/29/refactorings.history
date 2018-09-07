@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;cn.itcast.dao.impl.UserDaoOmpl&apos; to &apos;UserDaoImpl&apos;&#x0D;&#x0A;- Original project: &apos;day17_login_regist&apos;&#x0D;&#x0A;- Original element: &apos;cn.itcast.dao.impl.UserDaoOmpl&apos;&#x0D;&#x0A;- Renamed element: &apos;cn.itcast.dao.impl.UserDaoImpl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UserDaoOmpl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;cn.itcast.dao.impl{UserDaoOmpl.java[UserDaoOmpl" matchStrategy="1" name="UserDaoImpl" qualified="false" references="true" similarDeclarations="false" stamp="1531731557253" textual="false" version="1.0"/>
+</session>
